@@ -9,7 +9,7 @@
 
 1. _Fork This Repo_
     <br>
-<a href='https://github.com/Rudraraj3/Mr-anjannewbot/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/Fork_Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/OfficialAnjanv2/ANJAN-V2/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/Fork_Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 2. 𝘚𝘤𝘢𝘯 𝘵𝘩𝘦 𝘘𝘙 𝘢𝘯𝘥 𝘤𝘰𝘱𝘺 𝘪𝘵
     <br>

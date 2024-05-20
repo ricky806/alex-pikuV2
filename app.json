@@ -3,9 +3,9 @@
   "description": "À𝖑è𝖝 𝕻ì𝖐ù Multi Device whatsapp bot",
   "logo": "https://i.imgur.com/LOA5drs.mp4",
   "keywords": ["whatsapp"],
-  "repository": "https://github.com/Rudraraj3/Mr-anjannewbot",
+  "repository": "https://github.com/ricky806/alex-pikuV2.git",
   "website": "https://nezukosupport.vercel.app/",
-  "success_url": "https://github.com/Rudraraj3/Mr-anjannewbot",
+  "success_url": "https://github.com/ricky806/alex-pikuV2.git",
   "stack": "container",
   "env": {
     "SESSION_ID": {

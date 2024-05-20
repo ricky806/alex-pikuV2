@@ -9,7 +9,7 @@ command(
     },
     async (message, match, m, client) => {
         let { data } = await axios.get('https://api.github.com/repos/Zeta-XD/REPO-TESTs')
-        let cap = `\n*〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»*🌈
+        let cap = `\n*À𝖑è𝖝 𝕻ì𝖐ùː͢»*🌈
 
 *𝐒͓ɪ͛ᴍ͛ᴩ͛ʟ͛ᴇ᷍ 𝐖ʜ͛ᴀ͛ᴛ͛ꜱ͛ᴀ͛ᴩ͛ᴩ᷍ 𝚳͓ᴜ̟̽ʟ̟ᴛ̽ɪ͛ 𝐃̟͛ᴇ͛ᴠ͛ɪ͛ᴄ͛ᴇ͛ 𝚩͓ᴏ͛ᴛ͛ 𝚩̟ᴀ͛ꜱ͛ᴇ͛ᴅ͛ 𝚯̟ɴ̽ 𝚾̟ᴀ͛ꜱ̟͛ᴇ̟ɴ̟ᴀ͛*🖥️
 

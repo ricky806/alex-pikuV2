@@ -38,7 +38,7 @@ command(
 var speed = end - start;
  
 await new Promise(t => setTimeout(t,0))
-         await message.client.sendMessage(message.jid,{text:`᭕𝚫𝚴𝐉𝚫𝚴༈${speed} *𝑴𝒔🕊*` , edit: key});
+         await message.client.sendMessage(message.jid,{text:`©À𝖑è𝖝𝕻ì𝖐ù᭕${speed} *𝑴𝒔🕊*` , edit: key});
 })
 
 /* Copyright (C) 2022 X-Electra.
@@ -268,7 +268,7 @@ Description: ${i.desc}\`\`\``);
         });
         menu += `\n   ╚╤╤╤╤╤╤╤╤╤╤╤╤╤╤᭕`;
       });
-menu += `\n©𝚫𝚴𝐉𝚫𝚴᭕`;
+menu += `\n©À𝖑è𝖝 𝕻ì𝖐ù᭕`;
       let penu = tiny(menu)
       let vd = BOT_INFO.split(";")[2];
       return await message.sendFromUrl(vd, {fileLength: "500000000", gifPlayback: true, contextInfo: {
@@ -277,7 +277,7 @@ menu += `\n©𝚫𝚴𝐉𝚫𝚴᭕`;
       isForwarded: false,
       forwardedNewsletterMessageInfo: {
       newsletterJid: '120363239634100086@newsletter',
-      newsletterName: "〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»",
+      newsletterName: "À𝖑è𝖝 𝕻ì𝖐ùː͢»",
       serverMessageId: -1
             }}, caption: (penu)}, {quoted: message })
     }
@@ -303,7 +303,7 @@ command(
     dontAddCommandList: true,
   },
   async (message, match, { prefix }) => {
-    let menu = `╭───────┈┫「 *𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐋𝐢𝐬𝐭* 」┣┈────♡`;
+    let menu = `╭───────┈┫「 *À𝖑è𝖝 𝕻ì𝖐ù 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐋𝐢𝐬𝐭* 」┣┈────♡`;
     menu += `\n│\n`;
 
     let cmnd = [];
@@ -324,7 +324,7 @@ command(
       if (desc) menu += `\n│  Use: \`\`\`${desc}\`\`\``;
       menu += `\n│\n`;
     });
-    menu += `╰───────┈┫「 𝐌𝐫-𝐚𝐧𝐣𝐚𝐧-𝐌𝐃-𝐁𝐎𝐓 」┣┈────♡`;
+    menu += `╰───────┈┫「 À𝖑è𝖝 𝕻ì𝖐ù-𝐌𝐃-𝐁𝐎𝐓 」┣┈────♡`;
     return await message.reply(message.jid, { text: (tiny(menu)) })
 })
 
@@ -456,7 +456,7 @@ command(
 	type: 'user'
 }, async (message, match) => {
 	match = match || message.reply_message.text
-	if (!match) return await message.reply('*_Need Text_!*\n *Example: setbio _〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»_*.')
+	if (!match) return await message.reply('*_Need Text_!*\n *Example: setbio _À𝖑è𝖝 𝕻ì𝖐ùː͢»_*.')
 	await message.client.updateProfileStatus(match)
 	await message.reply('*_Successfully bio updated_*')
 })

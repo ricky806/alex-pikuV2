@@ -1,15 +1,14 @@
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-<div align="center" class= "main"> 
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" height="300"/><h1>MR-ANJAN</h1>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h1 align="center"> À𝖑è𝖝 𝕻ì𝖐ù-MD </h1> 
+<p align="center"> Introducing À𝖑è𝖝 𝕻ì𝖐ù-MD, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-  
-## sᴇᴛᴜᴘ
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=HELLO+EVERYONE+%F0%9F%A4%A0;MY+NAME+IS+%C3%80%F0%9D%96%91%C3%A8%F0%9D%96%9D+%F0%9D%95%BB%C3%AC%F0%9D%96%90%C3%B9+%F0%9F%A5%B5%F0%9F%92%A6;THANKS+FOR+VISIT+ME%F0%9F%A5%B9+;THANKS+FOR+YOUR+SUPPORT+%F0%9F%AB%82" alt="Typing SVG" /></a>
 
-1. _Fork This Repo_
-    <br>
-<a href='https://github.com/OfficialAnjanv2/ANJAN-V2/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/Fork_Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 2. 𝘚𝘤𝘢𝘯 𝘵𝘩𝘦 𝘘𝘙 𝘢𝘯𝘥 𝘤𝘰𝘱𝘺 𝘪𝘵
     <br>

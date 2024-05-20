@@ -23,7 +23,7 @@
 
 2. 𝘕𝘰𝘸 𝘋𝘦𝘱𝘭𝘰𝘺
     <br>
-<a href='https://dashboard.heroku.com/new-app?template=https://github.com/Mranjan101/Mr-anjannewbot?tab=readme-ov-file' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new-app?template=https://github.com/ricky806/alex-pikuV2.git?tab=readme-ov-file' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 ### External-Plugins
@@ -34,14 +34,9 @@
 <br>
 
 
-* [`External PLUGINS`](https://github.com/Mranjan101/Mr-anjan-plugins)
+* [`External PLUGINS`](https://github.com/ricky806/alex-pikuV2.git)
 </a>
 
   ### ᴛʜᴀɴᴋs ᴛᴏ
-- [〆Mr-anjan👀🦋 ː͢»](https://github.com/rudraraj3)
+- [〆À𝖑è𝖝-𝕻ì𝖐ù ː͢»](https://github.com/ricky806/alex-pikuV2.git)
 <br><br>
-
-***
-* Join Group For Help
-<a href="https://chat.whatsapp.com/HBf3zvaGyRaEfMZlKgUSPV"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=green"/></a>
-

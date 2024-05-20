@@ -268,7 +268,7 @@ Description: ${i.desc}\`\`\``);
         });
         menu += `\n   ╚╤╤╤╤╤╤╤╤╤╤╤╤╤╤᭕`;
       });
-menu += `\n©À𝖑è𝖝 𝕻ì𝖐ù᭕`;
+menu += `\n©À𝖑è𝖝𝕻ì𝖐ù᭕`;
       let penu = tiny(menu)
       let vd = BOT_INFO.split(";")[2];
       return await message.sendFromUrl(vd, {fileLength: "500000000", gifPlayback: true, contextInfo: {

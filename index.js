@@ -113,9 +113,9 @@ async function Abhiy() {
           require("./plugins/" + plugin);
         }
       });
-      console.log("〆𝐌𝐫-𝐚𝐧𝐣𝐚𝐧 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘🌸");
+      console.log("À𝖑è𝖝 𝕻ì𝖐ù 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘🌸");
       let readMore = String.fromCharCode(8206).repeat(4001);
-      let str = `〆𝐌𝐫-𝐚𝐧𝐣𝐚𝐧 𝐒𝐓𝐀𝐑𝐓𝐄𝐃🦋 ${readMore}\n\n\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍   : *${require("./package.json").version }* \n𝐏𝐋𝐔𝐆𝐈𝐍𝐒  : *${events.commands.length}* \n𝐌𝐎𝐃𝐄  : *${config.WORK_TYPE}* \n𝐏𝐑𝐄𝐅𝐈𝐗  : *${config.HANDLERS}*`;
+      let str = `À𝖑è𝖝 𝕻ì𝖐ù 𝐒𝐓𝐀𝐑𝐓𝐄𝐃 ${readMore}\n\n\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍   : *${require("./package.json").version }* \n𝐏𝐋𝐔𝐆𝐈𝐍𝐒  : *${events.commands.length}* \n𝐌𝐎𝐃𝐄  : *${config.WORK_TYPE}* \n𝐏𝐑𝐄𝐅𝐈𝐗  : *${config.HANDLERS}*`;
       conn.sendMessage(conn.user.id, { text: str });
      try {
         conn.ev.on("creds.update", saveCreds);

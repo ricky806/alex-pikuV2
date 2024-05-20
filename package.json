@@ -5,11 +5,11 @@
   "main": "./index.js",
   "type": "commonjs",
   "scripts": {
-    "start":  "pm2 start . --attach --name anjan"
+    "start":  "pm2 start . --attach --name À𝖑è𝖝 𝕻ì𝖐ù"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rudraraj3/Mr-anjannewbot.git"
+    "url": "git+https://github.com/ricky806/alex-pikuV2.git"
   },
   "keywords": [
     "bot",
